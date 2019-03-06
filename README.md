@@ -1,3 +1,11 @@
+## Team member
+
+- Ruochi Zhang [https://github.com/zhangruochi](https://github.com/zhangruochi)
+- Zhehao Guo [https://github.com/PaulGuo5](https://github.com/PaulGuo5)
+- Qi Lu [https://github.com/FawneLu](https://github.com/FawneLu)
+
+
+
 ## Thorough description of the project
 
 We designed a automatic reply system for a very popular chatting app among Asian people which called “wechat”. Users can use this client server system to log in their own account and perform many functions.
@@ -51,7 +59,8 @@ Here we use our facial recognition methods to detect certain parts in human face
 
 ## API
 1. Downlaod wechat app in Apple Store or Andrid Store
-2. Run in commandline: python3 wechat_robot.py
+2. Run in commandline: 
+    > python3 wechat_robot.py
 3. Scan the QR code
 
 ![Screen Shot 2018-12-05 at 10.44.32.png](resources/3CD9DC7DB7C4C9DC79E1F4F681E4E7E4.png)

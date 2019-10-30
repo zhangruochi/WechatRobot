@@ -30,16 +30,16 @@ Here are the functions and open source corpus that we use:
 
 We used Baidu translate api to frist translate English message into Chinese, and then use Tuling Chinese corpus to generate an auto reply and translate it back to English and send.
 
-![](screenshots/Picture1.png)
+![](screenshots/picture1.png)
 
 2. Auto make-up
 
 Here we use our facial recognition methods to detect certain parts in human face(such as eyes, eyebrows and lips) and then do the image processing to add make-ups(lipsticks and eye lines). Finally we get the output picture with make-ups on.
-![](screenshots/Picture2.png)
+![](screenshots/picture2.png)
 
 3. PDF transform using PDF OCR technique
 
-![](screenshots/Picture3.png)
+![](screenshots/picture3.png)
 
 
 ## Language and Framework
